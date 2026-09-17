@@ -56,12 +56,12 @@ a {color:var(--accent)}
 <div class="card"><div class="num">100</div><div class="label">apps audited</div></div>
 <div class="card"><div class="num">59</div><div class="label">verified / source-limited</div></div>
 <div class="card"><div class="num">41</div><div class="label">need review</div></div>
-<div class="card"><div class="num">59</div><div class="label">Composio toolkits found</div></div>
+<div class="card"><div class="num">59</div><div class="label">Rows with Composio tools</div></div>
 </div>
 
 <section><div class="panel">
 <h2>What the audit found</h2>
-<p class="good"><b>Pattern 1:</b> Composio toolkit discovery is the strongest machine-verifiable signal in this run: a toolkit returning tools gives concrete integration evidence.</p>
+<p class="good"><b>Pattern 1:</b> Composio tool discovery is the strongest machine-verifiable signal in this run: rows returning one or more Composio tools provide concrete integration evidence.</p>
 <p class="honest"><b>Pattern 2:</b> Documentation access is a separate problem from API existence. Blocked or JS-heavy pages are recorded as source-access limitations, not treated as proof of "no API".</p>
 <p class="honest"><b>Pattern 3:</b> 41 apps remain in <b>needs_review</b>; the system intentionally does not turn uncertainty into a false positive.</p>
 <p class="small">Run-level signals: official documentation fetched for 0/100; Composio returned tools for 59/100; 0 supplied toolkit lookups returned no tools; 6 rows had low research confidence.</p>
@@ -124,7 +124,7 @@ python outputs\final_audit.py</pre>
 <p>The final artifacts are <code>outputs/final_audit.csv</code> and <code>outputs/final_audit.json</code>.</p>
 </div>
 <div class="panel"><h2>Source & reproducibility</h2>
-<p>Source repository: <a href="REPLACE_REPO_URL" target="_blank">GitHub repository - replace this link</a></p>
+<p>Source repository: <a href="https://github.com/Rehan-Mallik/composio-integration-audit" target="_blank">GitHub repository - replace this link</a></p>
 <p>Setup is documented in <code>README.md</code>. Secrets are kept outside the repository in <code>.env</code>.</p>
 </div>
 </section>
