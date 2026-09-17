@@ -1,0 +1,6 @@
+app_name,website,documentation_url,composio_toolkit
+Salesforce,https://www.salesforce.com/,https://developer.salesforce.com/docs,SALESFORCE
+HubSpot,https://www.hubspot.com/,https://developers.hubspot.com/docs/api/overview,HUBSPOT
+Slack,https://slack.com/,https://api.slack.com/,SLACK
+GitHub,https://github.com/,https://docs.github.com/en/rest,GITHUB
+Stripe,https://stripe.com/,https://docs.stripe.com/api,STRIPE

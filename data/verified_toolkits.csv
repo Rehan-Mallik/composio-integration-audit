@@ -1,0 +1,101 @@
+app_name,category,hinted_toolkit,verified_toolkit,status,match_type
+Salesforce,CRM,SALESFORCE,salesforce,verified,exact_slug
+HubSpot,CRM,HUBSPOT,hubspot,verified,exact_slug
+Pipedrive,CRM,PIPEDRIVE,pipedrive,verified,exact_slug
+Attio,CRM,ATTIO,attio,verified,exact_slug
+Twenty,CRM,TWENTY,twenty,verified,exact_slug
+Podio,CRM,PODIO,,not_found,
+Zoho CRM,CRM,ZOHO_CRM,,not_found,
+Close,CRM,CLOSE,close,verified,exact_slug
+Copper,CRM,COPPER,,not_found,
+DealCloud,CRM,DEALCLOUD,,not_found,
+Zendesk,Support,ZENDESK,zendesk,verified,exact_slug
+Intercom,Support,INTERCOM,intercom,verified,exact_slug
+Freshdesk,Support,FRESHDESK,freshdesk,verified,exact_slug
+Front,Support,FRONT,,not_found,
+Pylon,Support,PYLON,,not_found,
+LiveAgent,Support,LIVEAGENT,,not_found,
+Plain,Support,PLAIN,plain,verified,exact_slug
+Help Scout,Support,HELPSCOUT,help_scout,verified,exact_name
+Gorgias,Support,GORGIAS,gorgias,verified,exact_slug
+Gladly,Support,GLADLY,,not_found,
+Slack,Communications,SLACK,slack,verified,exact_slug
+Twilio,Communications,TWILIO,,not_found,
+Zoho Cliq,Communications,ZOHO_CLIQ,,not_found,
+Lark,Communications,LARK,,not_found,
+Pumble,Communications,PUMBLE,pumble,verified,exact_slug
+Discord,Communications,DISCORD,discord,verified,exact_slug
+Telegram,Communications,TELEGRAM,telegram,verified,exact_slug
+WhatsApp Business,Communications,WHATSAPP,whatsapp,verified,exact_slug
+Aircall,Communications,AIRCALL,,not_found,
+Vonage,Communications,VONAGE,,not_found,
+Google Ads,Marketing/Advertising,GOOGLE_ADS,googleads,verified,exact_name
+Meta Ads,Marketing/Advertising,META_ADS,metaads,verified,exact_name
+LinkedIn Ads,Marketing/Advertising,LINKEDIN_ADS,linkedin_ads,verified,exact_slug
+GoHighLevel,Marketing/Advertising,GOHIGHLEVEL,highlevel,candidate,fuzzy
+Mailchimp,Marketing/Advertising,MAILCHIMP,mailchimp,verified,exact_slug
+Klaviyo,Marketing/Advertising,KLAVIYO,klaviyo,verified,exact_slug
+systeme.io,Marketing/Advertising,SYSTEME_IO,,not_found,
+Pinterest,Marketing/Advertising,PINTEREST,pinterest,verified,exact_slug
+Threads,Marketing/Advertising,THREADS,,not_found,
+SendGrid,Marketing/Advertising,SENDGRID,sendgrid,verified,exact_slug
+Shopify,Ecommerce,SHOPIFY,shopify,verified,exact_slug
+WooCommerce,Ecommerce,WOOCOMMERCE,,not_found,
+BigCommerce,Ecommerce,BIGCOMMERCE,,not_found,
+Salesforce Commerce Cloud,Ecommerce,SALESFORCE_COMMERCE_CLOUD,,not_found,
+Magento,Ecommerce,MAGENTO,,not_found,
+Squarespace,Ecommerce,SQUARESPACE,,not_found,
+Ecwid,Ecommerce,ECWID,,not_found,
+Gumroad,Ecommerce,GUMROAD,gumroad,verified,exact_slug
+Amazon Selling Partner,Ecommerce,AMAZON_SELLING_PARTNER,,not_found,
+fanbasis,Ecommerce,FANBASIS,,not_found,
+DataForSEO,SEO/Scraping,DATAFORSEO,dataforseo,verified,exact_slug
+SE Ranking,SEO/Scraping,SE_RANKING,,not_found,
+Ahrefs,SEO/Scraping,AHREFS,ahrefs,verified,exact_slug
+MrScraper,SEO/Scraping,MRSCRAPER,mrscraper,verified,exact_slug
+Apify,SEO/Scraping,APIFY,apify,verified,exact_slug
+Firecrawl,SEO/Scraping,FIRECRAWL,firecrawl,verified,exact_slug
+Bright Data,SEO/Scraping,BRIGHT_DATA,brightdata,verified,exact_name
+Sherlock,SEO/Scraping,SHERLOCK,,not_found,
+Waterfall.io,SEO/Scraping,WATERFALL,,not_found,
+Clay,SEO/Scraping,CLAY,,not_found,
+GitHub,Developer & Infrastructure,GITHUB,github,verified,exact_slug
+Vercel,Developer & Infrastructure,VERCEL,vercel,verified,exact_slug
+Netlify,Developer & Infrastructure,NETLIFY,,not_found,
+Cloudflare,Developer & Infrastructure,CLOUDFLARE,cloudflare,verified,exact_slug
+Supabase,Developer & Infrastructure,SUPABASE,supabase,verified,exact_slug
+Neo4j,Developer & Infrastructure,NEO4J,neo4j,verified,exact_slug
+Snowflake,Developer & Infrastructure,SNOWFLAKE,snowflake,verified,exact_slug
+MongoDB Atlas,Developer & Infrastructure,MONGODB,,not_found,
+Datadog,Developer & Infrastructure,DATADOG,datadog,verified,exact_slug
+Sentry,Developer & Infrastructure,SENTRY,sentry,verified,exact_slug
+Notion,Productivity,NOTION,notion,verified,exact_slug
+Airtable,Productivity,AIRTABLE,airtable,verified,exact_slug
+Linear,Productivity,LINEAR,linear,verified,exact_slug
+Jira,Productivity,JIRA,jira,verified,exact_slug
+Asana,Productivity,ASANA,asana,verified,exact_slug
+Monday.com,Productivity,MONDAY,monday,verified,exact_slug
+ClickUp,Productivity,CLICKUP,clickup,verified,exact_slug
+Coda,Productivity,CODA,coda,verified,exact_slug
+Smartsheet,Productivity,SMARTSHEET,,not_found,
+Harvest,Productivity,HARVEST,harvest,verified,exact_slug
+Stripe,Finance,STRIPE,stripe,verified,exact_slug
+Plaid,Finance,PLAID,placid,candidate,fuzzy
+Binance,Finance,BINANCE,,not_found,
+Paygent Connect,Finance,PAYGENT_CONNECT,,not_found,
+iPayX,Finance,IPAYX,,not_found,
+QuickBooks,Finance,QUICKBOOKS,quickbooks,verified,exact_slug
+Xero,Finance,XERO,xero,verified,exact_slug
+Brex,Finance,BREX,brex,verified,exact_slug
+Ramp,Finance,RAMP,ramp,verified,exact_slug
+PitchBook,Finance,PITCHBOOK,,not_found,
+NotebookLM,Other,,notebook_lm,verified,exact_name
+Otter AI,Other,,,not_found,
+Fathom,Other,,fathom,verified,exact_name
+Consensus,Other,,consensus,verified,exact_name
+Reducto,Other,,,not_found,
+Devin,Other,,,not_found,
+higgsfield,Other,,higgsfield_mcp,candidate,fuzzy
+Mermaid CLI,Other,,,not_found,
+YouTube Transcript,Other,,youtube_transcript,verified,exact_name
+Grain,Other,,,not_found,

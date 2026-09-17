@@ -1,0 +1,101 @@
+app_name,category,website,research_status,api_source_accessible,documentation_url,api_findings,composio_toolkit,toolkit_mapping_status,composio_status,composio_tool_count,confidence,verification_status,verification_issues
+Salesforce,CRM,https://www.salesforce.com/,completed,False,https://developer.salesforce.com/docs,,salesforce,verified,available,20,high,verified_with_source_limitation,Official documentation could not be accessed.
+HubSpot,CRM,https://www.hubspot.com/,completed,False,https://developers.hubspot.com/docs/api/overview,,hubspot,verified,available,20,high,verified_with_source_limitation,Official documentation could not be accessed.
+Pipedrive,CRM,,completed,False,,,pipedrive,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Attio,CRM,,completed,False,,,attio,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Twenty,CRM,,completed,False,,,twenty,verified,available,8,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Podio,CRM,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Zoho CRM,CRM,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Close,CRM,,completed,False,,,close,verified,available,14,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Copper,CRM,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+DealCloud,CRM,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Zendesk,Support,,completed,False,,,zendesk,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Intercom,Support,,completed,False,,,intercom,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Freshdesk,Support,,completed,False,,,freshdesk,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Front,Support,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Pylon,Support,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+LiveAgent,Support,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Plain,Support,,completed,False,,,plain,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Help Scout,Support,,completed,False,,,help_scout,candidate,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Gorgias,Support,,completed,False,,,gorgias,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Gladly,Support,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Slack,Communications,https://slack.com/,completed,False,https://api.slack.com/,,slack,verified,available,20,high,verified_with_source_limitation,Official documentation could not be accessed.
+Twilio,Communications,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Zoho Cliq,Communications,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Lark,Communications,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Pumble,Communications,,completed,False,,,pumble,verified,available,9,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Discord,Communications,,completed,False,,,discord,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Telegram,Communications,,completed,False,,,telegram,verified,available,18,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+WhatsApp Business,Communications,,completed,False,,,whatsapp,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Aircall,Communications,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Vonage,Communications,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Google Ads,Marketing & Advertising,,completed,False,,,googleads,candidate,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Meta Ads,Marketing & Advertising,,completed,False,,,metaads,candidate,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+LinkedIn Ads,Marketing & Advertising,,completed,False,,,linkedin_ads,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+GoHighLevel,Marketing & Advertising,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Mailchimp,Marketing & Advertising,,completed,False,,,mailchimp,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Klaviyo,Marketing & Advertising,,completed,False,,,klaviyo,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+systeme.io,Marketing & Advertising,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Pinterest,Marketing & Advertising,,completed,False,,,pinterest,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Threads,Marketing & Advertising,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+SendGrid,Marketing & Advertising,,completed,False,,,sendgrid,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Shopify,Ecommerce,,completed,False,,,shopify,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+WooCommerce,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+BigCommerce,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Salesforce Commerce Cloud,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Magento,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Squarespace,Ecommerce,,completed,False,,,square,candidate,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Ecwid,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Gumroad,Ecommerce,,completed,False,,,gumroad,verified,available,7,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Amazon Selling Partner,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+fanbasis,Ecommerce,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+DataForSEO,SEO & Scraping,,completed,False,,,dataforseo,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+SE Ranking,SEO & Scraping,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Ahrefs,SEO & Scraping,,completed,False,,,ahrefs,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+MrScraper,SEO & Scraping,,completed,False,,,mrscraper,verified,available,11,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Apify,SEO & Scraping,,completed,False,,,apify,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Firecrawl,SEO & Scraping,,completed,False,,,firecrawl,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Bright Data,SEO & Scraping,,completed,False,,,brightdata,candidate,available,10,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Sherlock,SEO & Scraping,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Waterfall.io,SEO & Scraping,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Clay,SEO & Scraping,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+GitHub,Developer & Infrastructure,https://github.com/,completed,False,https://docs.github.com/en/rest,,github,verified,available,20,high,verified_with_source_limitation,Official documentation could not be accessed.
+Vercel,Developer & Infrastructure,,completed,False,,,vercel,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Netlify,Developer & Infrastructure,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Cloudflare,Developer & Infrastructure,,completed,False,,,cloudflare,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Supabase,Developer & Infrastructure,,completed,False,,,supabase,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Neo4j,Developer & Infrastructure,,completed,False,,,neo4j,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Snowflake,Developer & Infrastructure,,completed,False,,,snowflake,verified,available,17,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+MongoDB Atlas,Developer & Infrastructure,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Datadog,Developer & Infrastructure,,completed,False,,,datadog,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Sentry,Developer & Infrastructure,,completed,False,,,sentry,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Notion,Productivity,,completed,False,,,notion,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Airtable,Productivity,,completed,False,,,airtable,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Linear,Productivity,,completed,False,,,linear,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Jira,Productivity,,completed,False,,,jira,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Asana,Productivity,,completed,False,,,asana,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Monday.com,Productivity,,completed,False,,,monday,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+ClickUp,Productivity,,completed,False,,,clickup,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Coda,Productivity,,completed,False,,,coda,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Smartsheet,Productivity,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Harvest,Productivity,,completed,False,,,harvest,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Stripe,Finance,https://stripe.com/,completed,False,https://docs.stripe.com/api,,stripe,verified,available,20,high,verified_with_source_limitation,Official documentation could not be accessed.
+Plaid,Finance,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Binance,Finance,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+Paygent Connect,Finance,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+iPayX,Finance,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+QuickBooks,Finance,,completed,False,,,quickbooks,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Xero,Finance,,completed,False,,,xero,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Brex,Finance,,completed,False,,,brex,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+Ramp,Finance,,completed,False,,,ramp,verified,available,20,high,verified_with_source_limitation,Missing field: website | Official documentation could not be accessed.
+PitchBook,Finance,,needs_discovery,False,,,,,,0,,needs_review,Missing field: website | Official documentation could not be accessed. | Composio toolkit was not checked.
+NotebookLM,Other,https://cloud.google.com/gemini,completed,False,https://cloud.google.com/gemini,,notebook_lm,candidate,available,11,high,verified_with_source_limitation,Official documentation could not be accessed.
+Otter AI,Other,https://help.otter.ai/,completed,False,https://help.otter.ai/,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.
+Fathom,Other,https://fathom.video,completed,False,https://fathom.video,,fathom,candidate,available,7,high,verified_with_source_limitation,Official documentation could not be accessed.
+Consensus,Other,https://consensus.app,completed,False,https://consensus.app,,consensus,candidate,available,1,high,verified_with_source_limitation,Official documentation could not be accessed.
+Reducto,Other,https://reducto.ai,completed,False,https://reducto.ai,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.
+Devin,Other,https://docs.devin.ai,completed,False,https://docs.devin.ai,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.
+higgsfield,Other,https://higgsfield.ai/cli,completed,False,https://higgsfield.ai/cli,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.
+Mermaid CLI,Other,https://github.com/mermaid-js/mermaid-cli,completed,False,https://github.com/mermaid-js/mermaid-cli,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.
+YouTube Transcript,Other,https://transcriptapi.com,completed,False,https://transcriptapi.com,,youtube_transcript,candidate,available,9,high,verified_with_source_limitation,Official documentation could not be accessed.
+Grain,Other,https://grain.com,completed,False,https://grain.com,,,not_found,not_checked,0,low,needs_review,Official documentation could not be accessed. | Composio toolkit was not checked. | Research confidence is low.

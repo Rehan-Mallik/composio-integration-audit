@@ -1,0 +1,10 @@
+python-dotenv
+pydantic
+pydantic-settings
+openai
+httpx
+beautifulsoup4
+requests
+tenacity
+pandas
+composio

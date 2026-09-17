@@ -1,0 +1,101 @@
+app_name,category
+Salesforce,CRM
+HubSpot,CRM
+Pipedrive,CRM
+Attio,CRM
+Twenty,CRM
+Podio,CRM
+Zoho CRM,CRM
+Close,CRM
+Copper,CRM
+DealCloud,CRM
+Zendesk,Support
+Intercom,Support
+Freshdesk,Support
+Front,Support
+Pylon,Support
+LiveAgent,Support
+Plain,Support
+Help Scout,Support
+Gorgias,Support
+Gladly,Support
+Slack,Communications
+Twilio,Communications
+Zoho Cliq,Communications
+Lark,Communications
+Pumble,Communications
+Discord,Communications
+Telegram,Communications
+WhatsApp Business,Communications
+Aircall,Communications
+Vonage,Communications
+Google Ads,Marketing & Advertising
+Meta Ads,Marketing & Advertising
+LinkedIn Ads,Marketing & Advertising
+GoHighLevel,Marketing & Advertising
+Mailchimp,Marketing & Advertising
+Klaviyo,Marketing & Advertising
+systeme.io,Marketing & Advertising
+Pinterest,Marketing & Advertising
+Threads,Marketing & Advertising
+SendGrid,Marketing & Advertising
+Shopify,Ecommerce
+WooCommerce,Ecommerce
+BigCommerce,Ecommerce
+Salesforce Commerce Cloud,Ecommerce
+Magento,Ecommerce
+Squarespace,Ecommerce
+Ecwid,Ecommerce
+Gumroad,Ecommerce
+Amazon Selling Partner,Ecommerce
+fanbasis,Ecommerce
+DataForSEO,SEO & Scraping
+SE Ranking,SEO & Scraping
+Ahrefs,SEO & Scraping
+MrScraper,SEO & Scraping
+Apify,SEO & Scraping
+Firecrawl,SEO & Scraping
+Bright Data,SEO & Scraping
+Sherlock,SEO & Scraping
+Waterfall.io,SEO & Scraping
+Clay,SEO & Scraping
+GitHub,Developer & Infrastructure
+Vercel,Developer & Infrastructure
+Netlify,Developer & Infrastructure
+Cloudflare,Developer & Infrastructure
+Supabase,Developer & Infrastructure
+Neo4j,Developer & Infrastructure
+Snowflake,Developer & Infrastructure
+MongoDB Atlas,Developer & Infrastructure
+Datadog,Developer & Infrastructure
+Sentry,Developer & Infrastructure
+Notion,Productivity
+Airtable,Productivity
+Linear,Productivity
+Jira,Productivity
+Asana,Productivity
+Monday.com,Productivity
+ClickUp,Productivity
+Coda,Productivity
+Smartsheet,Productivity
+Harvest,Productivity
+Stripe,Finance
+Plaid,Finance
+Binance,Finance
+Paygent Connect,Finance
+iPayX,Finance
+QuickBooks,Finance
+Xero,Finance
+Brex,Finance
+Ramp,Finance
+PitchBook,Finance
+NotebookLM,Other
+Otter AI,Other
+Fathom,Other
+Consensus,Other
+Reducto,Other
+Devin,Other
+higgsfield,Other
+Mermaid CLI,Other
+YouTube Transcript,Other
+Grain,Other

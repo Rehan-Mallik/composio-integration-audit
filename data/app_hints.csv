@@ -1,0 +1,101 @@
+﻿app_name,category,website_hint,documentation_hint,composio_toolkit
+Salesforce,CRM,https://www.salesforce.com/,https://developer.salesforce.com/docs,SALESFORCE
+HubSpot,CRM,https://www.hubspot.com/,https://developers.hubspot.com/docs/api/overview,HUBSPOT
+Pipedrive,CRM,,,PIPEDRIVE
+Attio,CRM,,,ATTIO
+Twenty,CRM,,,TWENTY
+Podio,CRM,,,PODIO
+Zoho CRM,CRM,,,ZOHO_CRM
+Close,CRM,,,CLOSE
+Copper,CRM,,,COPPER
+DealCloud,CRM,,,DEALCLOUD
+Zendesk,Support,,,ZENDESK
+Intercom,Support,,,INTERCOM
+Freshdesk,Support,,,FRESHDESK
+Front,Support,,,FRONT
+Pylon,Support,,,PYLON
+LiveAgent,Support,,,LIVEAGENT
+Plain,Support,,,PLAIN
+Help Scout,Support,,,HELPSCOUT
+Gorgias,Support,,,GORGIAS
+Gladly,Support,,,GLADLY
+Slack,Communications,https://slack.com/,https://api.slack.com/,SLACK
+Twilio,Communications,,,TWILIO
+Zoho Cliq,Communications,,,ZOHO_CLIQ
+Lark,Communications,,,LARK
+Pumble,Communications,,,PUMBLE
+Discord,Communications,,,DISCORD
+Telegram,Communications,,,TELEGRAM
+WhatsApp Business,Communications,,,WHATSAPP
+Aircall,Communications,,,AIRCALL
+Vonage,Communications,,,VONAGE
+Google Ads,Marketing/Advertising,,,GOOGLE_ADS
+Meta Ads,Marketing/Advertising,,,META_ADS
+LinkedIn Ads,Marketing/Advertising,,,LINKEDIN_ADS
+GoHighLevel,Marketing/Advertising,,,GOHIGHLEVEL
+Mailchimp,Marketing/Advertising,,,MAILCHIMP
+Klaviyo,Marketing/Advertising,,,KLAVIYO
+systeme.io,Marketing/Advertising,,,SYSTEME_IO
+Pinterest,Marketing/Advertising,,,PINTEREST
+Threads,Marketing/Advertising,,,THREADS
+SendGrid,Marketing/Advertising,,,SENDGRID
+Shopify,Ecommerce,,,SHOPIFY
+WooCommerce,Ecommerce,,,WOOCOMMERCE
+BigCommerce,Ecommerce,,,BIGCOMMERCE
+Salesforce Commerce Cloud,Ecommerce,,,SALESFORCE_COMMERCE_CLOUD
+Magento,Ecommerce,,,MAGENTO
+Squarespace,Ecommerce,,,SQUARESPACE
+Ecwid,Ecommerce,,,ECWID
+Gumroad,Ecommerce,,,GUMROAD
+Amazon Selling Partner,Ecommerce,,,AMAZON_SELLING_PARTNER
+fanbasis,Ecommerce,,,FANBASIS
+DataForSEO,SEO/Scraping,,,DATAFORSEO
+SE Ranking,SEO/Scraping,,,SE_RANKING
+Ahrefs,SEO/Scraping,,,AHREFS
+MrScraper,SEO/Scraping,,,MRSCRAPER
+Apify,SEO/Scraping,,,APIFY
+Firecrawl,SEO/Scraping,,,FIRECRAWL
+Bright Data,SEO/Scraping,,,BRIGHT_DATA
+Sherlock,SEO/Scraping,,,SHERLOCK
+Waterfall.io,SEO/Scraping,,,WATERFALL
+Clay,SEO/Scraping,,,CLAY
+GitHub,Developer & Infrastructure,https://github.com/,https://docs.github.com/en/rest,GITHUB
+Vercel,Developer & Infrastructure,,,VERCEL
+Netlify,Developer & Infrastructure,,,NETLIFY
+Cloudflare,Developer & Infrastructure,,,CLOUDFLARE
+Supabase,Developer & Infrastructure,,,SUPABASE
+Neo4j,Developer & Infrastructure,,,NEO4J
+Snowflake,Developer & Infrastructure,,,SNOWFLAKE
+MongoDB Atlas,Developer & Infrastructure,,,MONGODB
+Datadog,Developer & Infrastructure,,,DATADOG
+Sentry,Developer & Infrastructure,,,SENTRY
+Notion,Productivity,,,NOTION
+Airtable,Productivity,,,AIRTABLE
+Linear,Productivity,,,LINEAR
+Jira,Productivity,,,JIRA
+Asana,Productivity,,,ASANA
+Monday.com,Productivity,,,MONDAY
+ClickUp,Productivity,,,CLICKUP
+Coda,Productivity,,,CODA
+Smartsheet,Productivity,,,SMARTSHEET
+Harvest,Productivity,,,HARVEST
+Stripe,Finance,https://stripe.com/,https://docs.stripe.com/api,STRIPE
+Plaid,Finance,,,PLAID
+Binance,Finance,,,BINANCE
+Paygent Connect,Finance,,,PAYGENT_CONNECT
+iPayX,Finance,,,IPAYX
+QuickBooks,Finance,,,QUICKBOOKS
+Xero,Finance,,,XERO
+Brex,Finance,,,BREX
+Ramp,Finance,,,RAMP
+PitchBook,Finance,,,PITCHBOOK
+NotebookLM,Other,https://cloud.google.com/gemini,,
+Otter AI,Other,https://help.otter.ai/,,
+Fathom,Other,https://fathom.video,,
+Consensus,Other,https://consensus.app,,
+Reducto,Other,https://reducto.ai,,
+Devin,Other,https://docs.devin.ai,,
+higgsfield,Other,https://higgsfield.ai/cli,,
+Mermaid CLI,Other,https://github.com/mermaid-js/mermaid-cli,,
+YouTube Transcript,Other,https://transcriptapi.com,,
+Grain,Other,https://grain.com,,
